@@ -1,25 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a code-along with the tutorial laid out in the RailsGuide for getting started with Rails.
 
-Things you may want to cover:
+The goal of this project is a simple blog spun up with the Rails framework.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rails-blog
+### Key version info
+- Ruby 2.3.1
+- Rails 5.0.0.1
+- SQLite 3.8.10.2
